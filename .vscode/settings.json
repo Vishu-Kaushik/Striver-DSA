@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "iterator": "cpp",
+    "xutility": "cpp",
+    "vector": "cpp",
+    "algorithm": "cpp",
+    "xstring": "cpp",
+    "33_editdistance,cpp": "c",
+    "type_traits": "c",
+    "iostream": "cpp",
+    "unordered_map": "cpp"
+  }
+}
